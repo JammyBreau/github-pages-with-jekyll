@@ -1,5 +1,5 @@
 ---
-title: First blog post by Jammy
+title: "First blog post by Jammy"
 date: 2021-03-04
 ---
 
